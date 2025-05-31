@@ -1,0 +1,20 @@
+.título01 {
+    color: #810E0B;
+    font-size: 65px;
+    background-color: #F6F5DA;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: 0,5cm;
+    padding: 40px;
+    border-radius: 35px;
+    margin-top: 25px;
+}
+hr {
+    color: #810E0B;
+}
+.menu {
+    color: #810E0B;
+}
+body {
+    background-color: #E7EDEA;
+}
